@@ -1,0 +1,112 @@
+.header{
+    background-color: #3b5998;
+    width:100%;
+    height: 85px;
+}
+body{
+    margin:0;
+    font-family: helvetica Neue,Helvetica,arial,sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 35px;
+    float:left;
+    
+}
+.login{
+    width:50%;
+    float :left;
+}
+.logo-text{
+    color: #fefdfd;
+    font-size: 33px;
+    font-weight: bold;
+    font-family: helvetica Neue,Helvetica,arial,sans-serif;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.login-label{
+    color:#fefdfd;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left:110px;
+}
+.login{
+    padding-top:10px;
+    cursor:pointer;
+}
+.forgotten{
+    color:#9cb4d8;
+    font-size:11px;
+    text-decoration:none;
+}
+.submit{
+    background:#4267b2;
+    color:#fff;
+    border-color:#29487d
+}
+.submit:hover{
+    background:#3b5998;
+}
+.left-section{
+    width:50%;
+    float:left;
+    padding-left: 132px;
+    padding-top: 54px;
+
+}
+.right-section{
+    width:35%;
+    float:left;
+    padding-top:35px;
+}
+.main-body{
+    background: #E2E5F0;
+    width: 100%;
+    height: 500px;
+    
+  }
+.image{
+    width:524px;
+}
+.para{
+font-weight: bold;
+font-size:22px;
+}
+
+.name{
+    height: 24px;
+    width:200px;
+    border-radius: 7px;
+    font-size: 15px;
+    border-color: honeydew;
+    cursor:pointer;  
+    margin-right:5px;
+}
+
+.email{
+    height:24px;
+    width:410px;
+    border-radius: 7px;
+    font-size: 15px;
+    border-color: honeydew;
+    cursor:pointer;
+    margin-top:15px;
+}
+.policy{
+    color:gray;
+    font-size: 12px;
+
+}
+.signup{
+    background:#156021;
+    color:#fff;
+    border-color:green;
+    height: 35px;
+    width:150px;
+    cursor:pointer;
+    font-size: 15px;
+}
+.signup:hover{
+    background:green;}
